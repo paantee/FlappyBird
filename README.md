@@ -39,4 +39,4 @@ Voit pelata peliä alla olevasta linkistä.
 
 ## Credits
 
-[Zigurous](https://www.youtube.com/watch?v=ihvBiJ1oC9U&t=750s)
+[Zigurous](https://youtu.be/ihvBiJ1oC9U)
