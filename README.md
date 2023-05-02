@@ -5,7 +5,9 @@
 
 ## Projektista
 
-Tämä 2D-peli on koulun Ohjelmistokehityksen teknologioita kurssia varten tehty seminaarityö. Peli on tehty Unity-pelimoottoria ja C# ohjelmointikieltä käyttäen.
+Tämä 2D-peli on koulun Ohjelmistokehityksen teknologioita kurssia varten tehty seminaarityö. Peli on tehty Unity-pelimoottoria ja C# ohjelmointikieltä käyttäen. Tein pelin [Zigurouksen](https://youtu.be/ihvBiJ1oC9U) tutoriaalia käyttäen. Pelin tekemisessä ei ilmennyt ongelmia, mutta julkaisun kanssa oli säätöä. Lopulta sain julkaistua pelin [Itch.io](https://tepaqt.itch.io/flappy-bird) sivulle.
+
+Peliä voi pelata sekä kännykällä, että tietokoneella, mutta ilmeisesti peli ei toimi androidilla. Peli on tehty tietokonetta varten, joten suosittelen vahvasti pelaamaan peliä tietokoneen selaimella.
 
 ## Rakennettu käyttäen
 
