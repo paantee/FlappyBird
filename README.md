@@ -42,3 +42,7 @@ Voit pelata peliä alla olevasta linkistä.
 ## Credits
 
 [Zigurous](https://youtu.be/ihvBiJ1oC9U)
+
+## Yhteenveto
+
+Seminaarityönteko onnistui, mutta aika ei riittänyt oman tekemisen soveltamiseen. Vika on kuitenkin itsessäni, sillä aikataulutin seminaarityön teon huonosti. Opin kuitenkin C# kielestä lisää ja pääsin tekemään ensimmäisen pelin kokonaan itse, josta olen ylpeä. 
